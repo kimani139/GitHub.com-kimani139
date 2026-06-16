@@ -11,3 +11,8 @@ fovorite song morcking bird
 
 ### My Photo
 ![My profile picture](https://github.com/kimani139.png)
+### My Schedule
+| Day | Subject | Time |
+| --- | --- | --- |
+| Monday | Git | 10am |
+| Wednesday | Markdown | 2pm |
