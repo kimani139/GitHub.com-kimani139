@@ -1,10 +1,11 @@
-##MY LEANERS GOAL
-##THIS semester
+## MY LEANERNING GOAL
+## THIS semester
 This semester I want to learn **GitHub**, *Markdown*, and `code`.
-###My Hobbies playing football
-2 writing new codes
-favorite movie fast x
-fovorite song morcking bird
+###My Hobbies
+1.playing football
+2. writing new codes
+-favorite movie fastx
+-fovorite song morcking bird
 ### Useful Links
 [GitHub Docs](https://docs.github.com)
 [Markdown Guide](https://www.markdownguide.org)
